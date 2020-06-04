@@ -1,0 +1,6 @@
+# <Files index.php>
+AuthType Basic
+AuthName "Veuillez vous identifer"
+AuthUserFile D:\xampp\htdocs\epiWeb\admin\.htpasswd
+Require valid-user
+# </Files>
